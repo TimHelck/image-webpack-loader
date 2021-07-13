@@ -15,23 +15,23 @@
   },
   "dependencies": {
     "imagemin": "^7.0.1",
-    "imagemin-gifsicle": "^7.0.0",
-    "imagemin-mozjpeg": "^9.0.0",
-    "imagemin-optipng": "^8.0.0",
-    "imagemin-pngquant": "^9.0.2",
-    "imagemin-svgo": "^8.0.0",
-    "imagemin-webp": "^6.0.0",
+    "imagemin-gifsicle": "https://github.com/TimHelck/imagemin-gifsicle",
+    "imagemin-mozjpeg": "https://github.com/TimHelck/imagemin-mozjpeg",
+    "imagemin-optipng": "https://github.com/TimHelck/imagemin-optipng",
+    "imagemin-pngquant": "https://github.com/TimHelck/imagemin-pngquant",
+    "imagemin-svgo": "https://github.com/TimHelck/imagemin-svgo",
+    "imagemin-webp": "https://github.com/TimHelck/imagemin-webp"
     "loader-utils": "^2.0.0",
     "object-assign": "^4.1.1",
     "schema-utils": "^2.7.1"
   },
   "optionalDependencies": {
     "imagemin-gifsicle": "https://github.com/TimHelck/imagemin-gifsicle",
-    "imagemin-mozjpeg": "^9.0.0",
-    "imagemin-optipng": "^8.0.0",
-    "imagemin-pngquant": "^9.0.2",
+    "imagemin-mozjpeg": "https://github.com/TimHelck/imagemin-mozjpeg",
+    "imagemin-optipng": "https://github.com/TimHelck/imagemin-optipng",
+    "imagemin-pngquant": "https://github.com/TimHelck/imagemin-pngquant",
     "imagemin-svgo": "https://github.com/TimHelck/imagemin-svgo",
-    "imagemin-webp": "^6.0.0"
+    "imagemin-webp": "https://github.com/TimHelck/imagemin-webp"
   },
   "devDependencies": {
     "file-loader": "^6.2.0",
