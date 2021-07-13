@@ -20,7 +20,7 @@
     "imagemin-optipng": "https://github.com/TimHelck/imagemin-optipng",
     "imagemin-pngquant": "https://github.com/TimHelck/imagemin-pngquant",
     "imagemin-svgo": "https://github.com/TimHelck/imagemin-svgo",
-    "imagemin-webp": "https://github.com/TimHelck/imagemin-webp"
+    "imagemin-webp": "https://github.com/TimHelck/imagemin-webp",
     "loader-utils": "^2.0.0",
     "object-assign": "^4.1.1",
     "schema-utils": "^2.7.1"
